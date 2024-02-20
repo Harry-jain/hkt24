@@ -9,7 +9,6 @@ import { FreeMode, Pagination } from "swiper";
 //framer
 import { motion } from "framer-motion";
 import { fadeIn } from "../../variants";
-import Credit from "../../components/credit";
 
 // icons
 // import {
