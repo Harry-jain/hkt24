@@ -1,1 +1,1 @@
-# ethan-portfolio-starter
+# EESA-portfolio for hackatronics
