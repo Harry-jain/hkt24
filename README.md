@@ -1,1 +1,1 @@
-# hkt24
+# ethan-portfolio-starter
