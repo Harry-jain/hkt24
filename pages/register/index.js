@@ -36,7 +36,7 @@ const Contact = () => {
             Register for <span className="text-accent text-xl font-extrabold">Azure Odyssey</span>
           </h2>
           <h3 className=" pt-0 pl-2 pr-2 pb-0 text-white text-[30px] text-sm font-bold">
-            Heyy there!! we at EESA are organizing a very interactive workshop on <span className=" text-blue-400 text-lg font-bold">Azure</span> lead by....{" "}
+            Heyy there!! we at EESA are organizing a very interactive workshop on <span className=" text-accent text-lg font-bold">Azure</span> lead by....{" "}
             <span className=" text-accent text-lg font-bold"> Mr. Vedant Patil </span>a
             Expert in Microsoft certification. <a className="text-blue-400 text-lg" href="https://www.linkedin.com/in/vedant-patil-6082/">Linkedin</a>{" "}
           </h3>
