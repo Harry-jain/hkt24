@@ -7,6 +7,7 @@ import {
   HiChatBubbleBottomCenterText,
   HiEnvelope,
   HiSparkles,
+  HiChatBubbleBottomCenterText  
 } from "react-icons/hi2";
 
 // nav data
@@ -24,6 +25,11 @@ export const navData = [
     name: "register for events",
     path: "/register",
     icon: <HiEnvelope />,
+  },
+    {
+    name: "Contact",
+    path: "/contact",
+    icon: <HiChatBubbleBottomCenterText  />,
   },
 ];
 
