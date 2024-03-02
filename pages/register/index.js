@@ -32,13 +32,13 @@ const Contact = () => {
     <div className="h-full bg-indigo-500-">
       <div className=" container mx-auto py-32 text-center xl:text-left flex items-center jusrify-center h-full ">
         <div className="flex flex-col w-full max-w-[700px] ">
-          <h2 className=" p-2 pb-1 text-white text-[30px]">
+          <h2 className=" p-2 pb-1 text-white text-[20px]">
             Register for <span className="text-accent font-extrabold">EESA event :)</span>
           </h2>
           <h3 className=" p-2 text-white text-[30px] text-base font-bold">
             Heyy there!! we at EESA are organizing a very interactive workshop on...{" "}
-            <span className="text-2xl underline decoration-sky-500 text-blue-600">Azure odyssey</span>... lead by{" "}
-            <span className=" text-accent text-2xl font-bold"> Mr. Vedant Patil </span>a
+            <span className="text-xl underline decoration-sky-500 text-blue-600">Azure odyssey</span>... lead by{" "}
+            <span className=" text-accent text-xl font-bold"> Mr. Vedant Patil </span>a
             Expert in Microsoft certification. <a className="text-blue-400 text-lg" href="https://www.linkedin.com/in/vedant-patil-6082/">Linkedin</a>{" "}
           </h3>
           <h4 className=" p-2 text-white text-xs font-extrabold text-[30px]">
