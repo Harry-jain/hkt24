@@ -44,9 +44,7 @@ const Contact = () => {
           <h4 className=" p-2 text-white text-xs font-extrabold text-[30px]">
             Time : <span className="text-accent">4:00 - 5:30</span> ... Location : <span className="text-accent">VIT : CC02</span>
           </h4>
-          <h4 className=" p-2 text-white text-xs font-extrabold text-[30px]">
-            Location : <span className="text-accent">VIT : CC02</span>
-          </h4>
+
           <form
             id="survey-form"
             action="https://docs.google.com/forms/d/e/1FAIpQLSdrR-HAmjzPVbFFoTuHKfy8WCMBZ0yu_psVNO1NLd1ddhEiqw/formResponse"
