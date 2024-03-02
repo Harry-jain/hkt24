@@ -54,7 +54,7 @@ const Nav = () => {
             >
               <div className="absolute pr-14  right-0 hidden xl:group-hover:flex ">
                 <div className=" bg-accent xl:p-4 relative flex text-white items-center p-[60px] rounded-[3px] ">
-                  <div className="text-[12px]  leading-none font-semibold capitalize ">
+                  <div className="text-[12px]  leading-none justify-self-auto font-semibold capitalize ">
                     {" "}
                     &lt;/{link.name}&gt;
                   </div>
