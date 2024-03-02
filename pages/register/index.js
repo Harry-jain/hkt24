@@ -130,7 +130,7 @@ const Contact = () => {
               ></input>
             </div>
 
-            <div className="flex justify-center pb-1 pt-2">
+            <div className="flex justify-center pb-1 pt-1">
               <a href="https://www.linkedin.com/company/eesa-vit/about/">
                 <input
                   type="submit"
