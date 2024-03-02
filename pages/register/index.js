@@ -33,7 +33,7 @@ const Contact = () => {
       <div className=" container mx-auto py-32 text-center xl:text-left flex items-center jusrify-center h-full ">
         <div className="flex flex-col w-full max-w-[700px] ">
           <h2 className=" p-2 text-white text-[30px]">
-            Register for <span className="text-accent">EESA event :)</span>
+            Register for <span className="text-accent font-extrabold">EESA event :)</span>
           </h2>
           <h3 className=" p-2 text-white text-[30px] text-sm font-bold">
             Heyy there!! we at EESA are organizing a very intuitive workshop on
