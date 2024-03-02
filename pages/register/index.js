@@ -35,7 +35,7 @@ const Contact = () => {
           <h2 className=" p-2 text-white text-[30px]">
             Register for <span className="text-accent font-extrabold">EESA event :)</span>
           </h2>
-          <h3 className=" p-2 text-white text-[30px] text-sm font-bold">
+          <h3 className=" p-2 text-white text-[30px] text-lg font-bold">
             Heyy there!! we at EESA are organizing a very interactive workshop on...
             <span className="text-2xl underline decoration-sky-500 text-blue-600">Azure odyssey</span>... lead by{" "}
             <span className=" text-accent text-xl"> Mr. Vedant Patil </span>a
