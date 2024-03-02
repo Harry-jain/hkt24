@@ -7,7 +7,7 @@ import {
   HiChatBubbleBottomCenterText,
   HiEnvelope,
   HiSparkles,
-  HiChatBubbleBottomCenterText  
+  HiChatBubbleBottomCenter  
 } from "react-icons/hi2";
 
 // nav data
@@ -29,7 +29,7 @@ export const navData = [
     {
     name: "Contact",
     path: "/contact",
-    icon: <HiChatBubbleBottomCenterText  />,
+    icon: <HiChatBubbleBottomCenter  />,
   },
 ];
 
