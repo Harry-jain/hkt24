@@ -22,7 +22,7 @@ export const navData = [
     icon: <HiSparkles />,
   },
   {
-    name: "register for events",
+    name: "Events",
     path: "/register",
     icon: <HiEnvelope />,
   },
