@@ -38,7 +38,7 @@ const Contact = () => {
           <h3 className=" pt-0 pl-2 pr-2 pb-0 text-white text-[30px] text-sm font-bold">
             Heyy there!! we at EESA are organizing a very interactive workshop on <span className=" text-accent text-lg font-bold">Azure</span> lead by....{" "}
             <span className=" text-accent text-lg font-bold"> Mr. Vedant Patil </span>a
-            Expert in Microsoft certification. <a className="text-blue-400 text-lg" href="https://www.linkedin.com/in/vedant-patil-6082/">Linkedin</a>{" "}
+            Microsoft Student Ambassador. <a className="text-blue-400 text-lg" href="https://www.linkedin.com/in/vedant-patil-6082/">Linkedin</a>{" "}
           </h3>
           <h4 className="pt-1 pl-2 pr-2 pb-2 text-white text-xs font-extrabold text-[30px]">
            Date : <span className="text-accent">7th March 2024</span> | Time : <span className="text-accent">4:00 - 5:30</span> | Location : <span className="text-accent">VIT : CC02</span>
