@@ -120,6 +120,50 @@ const Contact = () => {
                 </option>
               </select>
             </div>
+<div className="flex p-2">
+ <select
+                name="cars"
+                id="cars"
+                placeholder="Year"
+                className="input p-2"
+                required
+                name="entry.359830086"
+              >
+                <option className="text-black" value="First">
+                  1st
+                </option>
+                <option className="text-black" value="Second">
+                  2nd
+                </option>
+                <option className="text-black" value="Third">
+                  3rd
+                </option>
+                <option className="text-black" value="Fourth">
+                  4th
+                </option>
+              </select>
+ <select
+                name="cars"
+                id="cars"
+                placeholder="Year"
+                className="input p-2"
+                required
+                name="entry.359830086"
+              >
+                <option className="text-black" value="First">
+                  1st
+                </option>
+                <option className="text-black" value="Second">
+                  2nd
+                </option>
+                <option className="text-black" value="Third">
+                  3rd
+                </option>
+                <option className="text-black" value="Fourth">
+                  4th
+                </option>
+              </select>
+</div>
             <div className="flex p-2">
               <input
                 type="number"
