@@ -29,7 +29,7 @@ import { fadeIn } from "../../variants";
 
 const Contact = () => {
   return (
-    <div className="h-full bg-indigo-500-">
+    <div className="h-130% bg-indigo-500-">
       <div className=" container mx-auto py-32 text-center xl:text-left flex items-center jusrify-center h-full ">
         <div className="flex flex-col w-full max-w-[700px] ">
           <h2 className=" p-2 pb-1 text-white text-[20px]">
@@ -96,31 +96,6 @@ const Contact = () => {
                   M.Tech
                 </option>
               </select>
-            </div>
-            <div className="flex p-2 ">
-              <select
-                name="cars"
-                id="cars"
-                placeholder="Year"
-                className="input p-2"
-                required
-                name="entry.359830086"
-              >
-                <option className="text-black" value="First">
-                  1st
-                </option>
-                <option className="text-black" value="Second">
-                  2nd
-                </option>
-                <option className="text-black" value="Third">
-                  3rd
-                </option>
-                <option className="text-black" value="Fourth">
-                  4th
-                </option>
-              </select>
-            </div>
-<div className="flex p-2">
  <select
                 name="cars"
                 id="cars"
@@ -142,28 +117,8 @@ const Contact = () => {
                   4th
                 </option>
               </select>
- <select
-                name="cars"
-                id="cars"
-                placeholder="Year"
-                className="input p-2"
-                required
-                name="entry.359830086"
-              >
-                <option className="text-black" value="First">
-                  1st
-                </option>
-                <option className="text-black" value="Second">
-                  2nd
-                </option>
-                <option className="text-black" value="Third">
-                  3rd
-                </option>
-                <option className="text-black" value="Fourth">
-                  4th
-                </option>
-              </select>
-</div>
+            </div>
+            
             <div className="flex p-2">
               <input
                 type="number"
