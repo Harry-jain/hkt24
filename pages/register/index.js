@@ -126,6 +126,73 @@ const Contact = () => {
               </select>
             </div>
             
+
+    <div className="flex p-2 ">
+<div className="pl-[4px]">
+              <select
+                name="Branch"
+                id="Branch"
+                required
+                placeholder="Branch"
+                className="input p-2"
+                name="entry.2023976054"
+              >
+<option className="text-black" value="Branch">
+                Branch
+                </option>
+                <option className="text-black" value="CMPN">
+                  CMPN
+                </option>
+                <option className="text-black" value="INFT">
+                  INFT
+                </option>
+                <option className="text-black" value="ExCS">
+                  ExCS
+                </option>
+                <option className="text-black" value="ExTC">
+                  ExTC
+                </option>
+                <option className="text-black" value="BIOM">
+                  BIOM
+                </option>
+                <option className="text-black" value="Mtech ">
+                  M.Tech
+                </option>
+
+              </select>
+</div>
+
+<div className="pl-[4px]">
+ <select
+                name="Year"
+                id="Year"
+                placeholder="Year"
+                className="input p-2"
+                required
+                name="entry.359830086"
+              >
+<option className="text-black" value="*year*">
+                 Year
+                </option>
+                <option className="text-black" value="First">
+                  1st
+                </option>
+                <option className="text-black" value="Second">
+                  2nd
+                </option>
+                <option className="text-black" value="Third">
+                  3rd
+                </option>
+                <option className="text-black" value="Fourth">
+                  4th
+                </option>
+              </select>
+            </div>
+</div>
+
+
+
+
             <div className="flex p-2">
               <input
                 type="number"
