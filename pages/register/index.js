@@ -70,8 +70,8 @@ const Contact = () => {
             </div>
             <div className="flex p-2 ">
               <select
-                name="cars"
-                id="cars"
+                name="Branch"
+                id="Branch"
                 required
                 placeholder="Branch"
                 className="input p-2"
@@ -100,8 +100,8 @@ const Contact = () => {
                 </option>
               </select>
  <select
-                name="cars"
-                id="cars"
+                name="Year"
+                id="Year"
                 placeholder="Year"
                 className="input p-2"
                 required
