@@ -19,8 +19,8 @@ const Home = () => {
             exit="hidden"
             className="h2 max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 z-20"
           >
-<span className="text-3xl text-white"><span className="text-accent">EESA</span>presents</span>
-            <span className="text-accent font-black text-4xl xl:text-6xl z-">
+<span className="text-3xl text-white"><span className="text-accent">EESA</span> presents</span>{"   "
+}            <span className="text-accent font-black text-4xl xl:text-6xl z-">
               &lt;HACKATRONICS/&gt;{" "}
             </span>
             <span className="text-4xl text-white">Transforming Ideas </span>
