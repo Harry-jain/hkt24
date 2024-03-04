@@ -78,7 +78,7 @@ const Contact = () => {
                 name="entry.2023976054"
               >
 <option className="text-black" value="Branch">
-                *Branch*
+                Branch
                 </option>
                 <option className="text-black" value="CMPN">
                   CMPN
@@ -98,7 +98,7 @@ const Contact = () => {
                 <option className="text-black" value="Mtech ">
                   M.Tech
                 </option>
-Branch
+
               </select>
  <select
                 name="Year"
@@ -109,7 +109,7 @@ Branch
                 name="entry.359830086"
               >
 <option className="text-black" value="*year*">
-                 *Year*
+                 Year
                 </option>
                 <option className="text-black" value="First">
                   1st
