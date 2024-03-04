@@ -40,7 +40,7 @@ const Contact = () => {
             <span className=" text-accent text-lg font-bold"> Mr. Vedant Patil </span>a
             Microsoft Student Ambassador. <a className="text-blue-400 text-lg" href="https://www.linkedin.com/in/vedant-patil-6082/">Linkedin</a>{" "}
           </h3>
-          <h4 className="pt-1 pl-2 pr-2 pb-2 text-white text-xs font-extrabold text-[30px]">
+          <h4 className="pt-1 pl-2 pr-2 pb-2 text-white text-xs font-extrabold text-[20px]">
            Date : <span className="text-accent">7th March 2024</span> | Time : <span className="text-accent">4:00 - 5:30</span> | Location : <span className="text-accent">VIT : CC02</span>
           </h4>
 
