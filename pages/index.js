@@ -28,11 +28,7 @@ const Home = () => {
               into Reality
             </span>
             <p className="max-w-sm xl:max-w-xl z-50 pt-4 font-bold text-sm text-white mx-auto xl:mx-0 mb-10 xl:mb-16 ">
-              loremAd adipisicing nulla duis anim anim. Minim laborum ipsum
-              eiusmod reprehenderit Lorem incididunt qui irure irure non
-              incididunt nostrud deserunt. Adipisicing qui quis sint veniam
-              commodo ex dolore nulla aliqua sunt excepteur tempor in. Aliquip
-              deserunt amet do culpa duis aliqua ea eu proident laborum.{" "}
+              EESA presents Hackatronics, our flagship event highlighting the forefront of electronic and computer engineering. Explore innovative themes and push the boundaries of technology with us. Join the ultimate gathering of enthusiasts, innovators, and problem solvers in the field.{" "}
             </p>
             <div className="flex sm:pl-2 cursor-pointer text-lg font-extrabold text-white z-60 ">
               <ProjectsBtn />
