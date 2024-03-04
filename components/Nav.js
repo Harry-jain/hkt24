@@ -16,11 +16,7 @@ export const navData = [
   { name: "Problem_S.", path: "/Problem_Statements", icon: <HiViewColumns /> },
   { name: "Team", path: "/team", icon: <HiUser /> },
 
-  {
-    name: "Winners",
-    path: "/winners",
-    icon: <HiSparkles />,
-  },
+  
   {
     name: "Events",
     path: "/register",
