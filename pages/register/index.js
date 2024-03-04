@@ -4,33 +4,11 @@ import { motion } from "framer-motion";
 
 import { fadeIn } from "../../variants";
 
-//SCRIPT
-// function GetFruit(color) {
-//   google.script.run
-//     .withSuccessHandler(function (ar) {
-//       console.log(ar);
-
-//       fruit.length = 0;
-
-//       let option = document.createElement("option");
-//       option.value = "";
-//       option.text = "";
-//       fruit.appendChild(option);
-
-//       ar.forEach(function (item, index) {
-//         let option = document.createElement("option");
-//         option.value = item;
-//         option.text = item;
-//         fruit.appendChild(option);
-//       });
-//     })
-//     .getFruits(color);
-// }
 
 const Contact = () => {
   return (
     <div className="h-130% bg-indigo-500-">
-      <div className=" container mx-auto py-32 text-center xl:text-left flex items-center jusrify-center h-full ">
+      <div className=" container mx-auto py-28 text-center xl:text-left flex items-center jusrify-center h-full ">
         <div className="flex flex-col w-full max-w-[700px] ">
           <h2 className=" p-2 pb-1 text-white text-[20px]">
             Register for <span className="text-accent text-xl font-extrabold">Azure Odyssey</span>
