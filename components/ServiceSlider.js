@@ -72,7 +72,7 @@ const serviceData = [
     title: "Omkar Daggula",
     description: "Creatives Head.",
     core: "Core & extendee",
-    link: "https://www.instagram.com/_omkardaggula_/,
+    link: "https://www.instagram.com/_omkardaggula_/",
     c_member:
       "Divesh B, Nishika s, Swaranchi K, Tejas P, Shreyas G, Inshrah K, Pratima M, Prabhjyot K.",
     e_member: "Poorva K, Kiah V, Trupti V, Umang B, Shubhanshu B, Sanskriti S.",
