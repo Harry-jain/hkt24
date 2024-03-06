@@ -36,7 +36,7 @@ const serviceData = [
     core: "Core & extendee",
     description: "Technical Head.",
     link: "https://www.linkedin.com/company/eesa-vit/about/",
-    c_member: "Aanchal C, Biral M, Aryan B, Aaryan M, Maitri D.",
+    c_member: "Aanchal C, Biral M, Aryan B, Maitri D.",
     e_member: "Aaryan T, Sunny T, Lokesh P, Vaishnavi M, Akshat G.",
   },
   {
