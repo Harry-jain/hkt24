@@ -36,7 +36,7 @@ const serviceData = [
     core: "Core & extendee",
     description: "Technical Head.",
     link: "https://www.instagram.com/jain.harry/",
-    c_member: "Aanchal C, Biral M, Aryan B, Maitri D., Tejas K",
+    c_member: "Aanchal C, Biral M, Aryan B, Maitri D, Tejas K.",
     e_member: "Aaryan T, Sunny T, Lokesh P, Vaishnavi M, Akshat G.",
   },
   {
