@@ -18,7 +18,7 @@ export const navData = [
 
   
   {
-    name: "Events",
+    name: "Register",
     path: "/register",
     icon: <HiEnvelope />,
   }
