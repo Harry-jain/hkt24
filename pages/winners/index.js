@@ -17,8 +17,8 @@ const Winners = () => {
             // exit="hidden"
             className="flex-1 flex flex-col justify-center"
           >
-          <span className="text-accent flex justify-center text-2xl pt-[75px] font-black text-3xl text-center">Registeration   </span>
-          <div className="flex justify-center text-white text-2xl pb-10 pl-10 pr-10 text-center">link will be activated soon and the below given gear will be replaced by form link.</div>
+          <span className="text-accent flex justify-center text-2xl pt-[75px] font-black text-3xl text-center"></span>
+          <div className="flex justify-center text-white text-2xl pb-10 pl-10 pr-10 text-center">To all the HACKATRONICS winner your names and list will pe displayed here.</div>
           </motion.div>
 
           <div className="flex justify-center text-[90px] duration-[4200ms] text-white font-black " viewBox="0 0 54 54">
