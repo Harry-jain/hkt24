@@ -119,7 +119,7 @@ const About = () => {
   const [index, setIndex] = useState(0);
   console.log(index);
   return (
-    <div className="h-[250%] bg-purple-700/30 py-32 text-white text-center xl:text-left">
+    <div className="bg-purple-700/30 py-32 text-white text-center xl:text-left">
       <div className="container mx-auto h-full flex flex-col items-center xl:flex-row gap-x-6">
         <motion.div
           variants={fadeIn("up", 0.7)}
