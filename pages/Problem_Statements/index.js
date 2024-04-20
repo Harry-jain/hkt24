@@ -1,7 +1,7 @@
 //  data
 const aboutData = [
   {
-    title: "Web-Developement",
+    title: "Web-Apps",
     info: [
       {
         title:
@@ -61,7 +61,7 @@ const aboutData = [
     ],
   },
   {
-    "title": "AI and ML",
+    "title": "AI/ML",
     "info": [
       {
         "title": "1.Develop a predictive analytics model to forecast stock market trends using machine learning."
@@ -87,7 +87,7 @@ const aboutData = [
     ]
   },
   {
-    title: "Internet of things",
+    title: "IoT",
     info: [
       {
         title:
