@@ -182,7 +182,7 @@ const About = () => {
             {aboutData[index].info.map((item, itemIndex) => {
               return (
                 <div className="text-white">
-                  <div className="xl:text-sm text-2xs pt-2 pr-2 text-slate-100 font-normal f ">
+                  <div className="xl:text-sm text-xs pt-2 pr-2 text-slate-100 font-normal f ">
                     {item.title}
                   </div>
                 </div>
