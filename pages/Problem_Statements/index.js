@@ -22,11 +22,11 @@ const aboutData = [
           "5.Craft a resume builder web application using HTML, CSS, and ReactJS, offering users an intuitive interface.",
       },
       {
-        title: "6.Replicate the functionality of a popular E-commerce website using a language of choice, implementing features such as product listings, shopping carts, user accounts, and secure payment processing.",
+        title: "6.Replicate features of a popular E-commerce website with product listings, shopping carts, user accounts, and secure payment processing.",
       },
       {
         title:
-          "7.Develop a dynamic blog portal allowing users to create and share blogs, with features for liking, sharing, and sorting top-performing blogs based on popularity. Include a text editor with image insertion capabilities for creating engaging blog content.",
+          "7.Build a dynamic blog platform for users to create and share blogs, with liking, sharing, and top blog sorting features. Include a text editor with image insertion for engaging content.",
       },
     ],
   },
@@ -35,27 +35,27 @@ const aboutData = [
     info: [
       {
         title:
-          "1. Design an autonomous delivery robot capable of efficiently navigating warehouse or campus environments to deliver packages or items while ensuring safe interaction with humans.",
+          "1.Design an autonomous delivery robot for efficient navigation in warehouses or campuses, ensuring safe interaction with humans during package delivery.",
       },
       {
         title:
-          "2. Invent a dynamic robot designed for basketball, capable of accurately identifying the basket and executing shots either autonomously or with manual inputs.",
+          "2.Create a dynamic basketball robot capable of accurately identifying the basket and executing shots autonomously or with manual inputs.",
       },
       {
         title:
-          "3. Engineer a versatile farming robot capable of automating tasks such as planting, harvesting, and fertilizing crops, with the ability to adapt to varying environmental conditions and learn over time.",
+          "3.Engineer a versatile farming robot to automate planting, harvesting, and fertilizing crops, adaptable to various environmental conditions and capable of learning over time.",
       },
       {
         title:
-          "4.Develop a multifunctional robot for home or office use, equipped to handle tasks like cleaning, cooking, and organizing, with intuitive human interaction and customizable programming.",
+          "4.Develop a multifunctional robot for home or office tasks like cleaning, cooking, and organizing, featuring intuitive human interaction and customizable programming.",
       },
       {
         title:
-          "5.Devise a universal language translation robot capable of converting audio from any language into any other language seamlessly.",
+          "5.Devise a universal language translation robot seamlessly converting audio from any language to another.",
       },
       {
         title:
-          "6. Create an automation bot specifically tailored for cyclic monthly patching of Windows servers, with input functionality enabled through CSV files.",
+          "6.Design an automation bot for cyclic monthly patching of Windows servers, with input functionality facilitated through CSV files",
       },
       {
         title:
@@ -84,19 +84,11 @@ const aboutData = [
       },
       {
         title:
-          "5.Devise a universal language translation robot that seamlessly converts audio between any languages.",
+          "5.Create an automation bot tailored for monthly patching of Windows servers, with input through CSV files.",
       },
       {
         title:
-          "6.Create an automation bot tailored for monthly patching of Windows servers, with input through CSV files.",
-      },
-      {
-        title:
-          "7.Engineer a Virtual Mouse system using OpenCV that recognizes hand gestures and performs designated tasks based on various finger combinations, enhancing user interaction and control in computer interfaces."
-      },
-      {
-        title:
-          "8.Implement a Python-based Deep Iris Detection system capable of capturing and analyzing eye blinking actions, providing insights into user behavior and facilitating applications such as drowsiness detection or biometric authentication.",
+          "6.Engineer a Virtual Mouse system using OpenCV that recognizes hand gestures and performs designated tasks based on various finger combinations, enhancing user interaction and control in computer interfaces."
       },
     ],
   },
