@@ -5,7 +5,7 @@ const aboutData = [
     info: [
       {
         title:
-          "1Develop a web-based financial management app for personal finance tracking and budgeting.
+          "1.Develop a web-based financial management app for personal finance tracking and budgeting."
       },
       {
         title:
