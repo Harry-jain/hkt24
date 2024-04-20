@@ -133,9 +133,9 @@ const About = () => {
           // exit="hidden"
           className="flex-1 flex flex-col justify-center"
         >
-          <h2 className="h2">
+          <h2 className="h3">
             Problem{" "}
-            <span className="h2 text-accent font-medium font-xl">
+            <span className="h2 text-accent font-medium font-lg">
               Statements
             </span>
           </h2>
@@ -162,9 +162,9 @@ const About = () => {
                 <div
                   key={itemIndex}
                   className={`${index === itemIndex &&
-                    "text-accent after:w-[100%] after:bg-accent duration-300 hover:text-accent after:transition-all after:duration-300 "
+                    "text-accent after:w-[100%] after:bg-accent sm:text-sm duration-300 hover:text-accent after:transition-all after:duration-300 "
                     }
-                cursor-pointer capitalize xl:text-lg sm:text-base text-white duration-300 relative after:w-8 hover:text-accent after:h-[2px] after:bg-accent after:absolute after:-bottom-1 after:left-0 
+                cursor-pointer capitalize xl:text-lg  text-white duration-300 relative after:w-8 hover:text-accent after:h-[2px] after:bg-accent after:absolute after:-bottom-1 after:left-0 
                 `}
                   onClick={() => setIndex(itemIndex)}
                 >
