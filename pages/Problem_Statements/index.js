@@ -79,7 +79,7 @@ const aboutData = [
         "title": "5.Develope a computer vision system using OpenCV to recognize hand gestures and perform tasks based on finger combinations, enhancing control in computer interfaces."
       },
       {
-        "title": "6.Implement a Python-based Deep Iris Detection system to capture eye blinking actions, provide insights into user behavior for applications like drowsiness, biometrics detection"
+        "title": "6.Implement a Python-based Deep Iris Detection system to capture eye blinking actions, provide insights into behavior for applications like drowsiness, biometrics detection"
       }
     ]
   },
