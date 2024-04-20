@@ -92,8 +92,7 @@ const aboutData = [
       },
       {
         title:
-          "7.Engineer a Virtual Mouse system using OpenCV that recognizes hand gestures and performs designated tasks based on various finger combinations, enhancing user interaction and control in computer interfaces.
-",
+          "7.Engineer a Virtual Mouse system using OpenCV that recognizes hand gestures and performs designated tasks based on various finger combinations, enhancing user interaction and control in computer interfaces.",
       },
       {
         title:
