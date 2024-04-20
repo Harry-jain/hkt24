@@ -10,7 +10,6 @@ const Header = () => {
           <Link href="https://eesa24.vercel.app/">
             <Image
               src={"/logo.png"}
-  href="https.//eesa24.vercel.app"
               width={40}
               height={48}
               alt=""
