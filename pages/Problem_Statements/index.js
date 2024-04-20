@@ -22,7 +22,11 @@ const aboutData = [
           "5.Craft a resume builder web application using HTML, CSS, and ReactJS, offering users an intuitive interface.",
       },
       {
-        title: "6Replicate features of a popular E-commerce website with product listings, shopping carts, user accounts, and secure payment processing.",
+        title: "6.Replicate the functionality of a popular E-commerce website using a language of choice, implementing features such as product listings, shopping carts, user accounts, and secure payment processing.",
+      },
+      {
+        title:
+          "7.Develop a dynamic blog portal allowing users to create and share blogs, with features for liking, sharing, and sorting top-performing blogs based on popularity. Include a text editor with image insertion capabilities for creating engaging blog content.",
       },
     ],
   },
@@ -53,6 +57,10 @@ const aboutData = [
         title:
           "6. Create an automation bot specifically tailored for cyclic monthly patching of Windows servers, with input functionality enabled through CSV files.",
       },
+      {
+        title:
+          "7.Engineer an Optimum Path Finder robot capable of analyzing multiple available routes and determining the shortest path to a given destination efficiently.",
+      },
     ],
   },
   {
@@ -82,6 +90,14 @@ const aboutData = [
         title:
           "6.Create an automation bot tailored for monthly patching of Windows servers, with input through CSV files.",
       },
+      {
+        title:
+          "7.Engineer a Virtual Mouse system using OpenCV that recognizes hand gestures and performs designated tasks based on various finger combinations, enhancing user interaction and control in computer interfaces."
+      },
+      {
+        title:
+          "8.Implement a Python-based Deep Iris Detection system capable of capturing and analyzing eye blinking actions, providing insights into user behavior and facilitating applications such as drowsiness detection or biometric authentication.",
+      },
     ],
   },
   {
@@ -109,6 +125,10 @@ const aboutData = [
       {
         title:
           "6. Develop IoT solutions aimed at enhancing energy efficiency across residential, commercial, and industrial sectors, integrating features such as intelligent lighting, HVAC management, and energy consumption monitoring.",
+      },
+      {
+        title:
+          "7. Create robust security protocols for safeguarding IoT devices and networks against unauthorized access, data breaches, and privacy infringements, taking into account the diverse array of connected devices and potential vulnerabilities.",
       },
     ],
   },
@@ -182,7 +202,7 @@ const About = () => {
             {aboutData[index].info.map((item, itemIndex) => {
               return (
                 <div className="text-white">
-                  <div className="xl:text-sm text-xs pt-2 pr-2 text-slate-100 font-normal f ">
+                  <div className="xl:text-sm text-sm pt-2 pr-2 text-slate-100 font-normal f ">
                     {item.title}
                   </div>
                 </div>
