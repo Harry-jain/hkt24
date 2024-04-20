@@ -27,7 +27,7 @@ const aboutData = [
       {
         title:
           "7.Develop a dynamic blog portal allowing users to create and share blogs, with features for liking, sharing, and sorting top-performing blogs based on popularity. Include a text editor with image insertion capabilities for creating engaging blog content.",
-      }
+      },
     ],
   },
   {
@@ -90,10 +90,10 @@ const aboutData = [
         title:
           "6. Select a photo album of 10 photos from which human faces can be detected, identify a person from that photos. Create a ML model that allow a program to organize photos by person. Some software like iPhoto and Google Photos has this capability.",
       },
-{
-  title:
-    "7.Engineer a Virtual Mouse system using OpenCV that recognizes hand gestures and performs designated tasks based on various finger combinations, enhancing user interaction and control in computer interfaces."
-},
+      {
+        title:
+          "7.Engineer a Virtual Mouse system using OpenCV that recognizes hand gestures and performs designated tasks based on various finger combinations, enhancing user interaction and control in computer interfaces."
+      },
       {
         title:
           "8.Implement a Python-based Deep Iris Detection system capable of capturing and analyzing eye blinking actions, providing insights into user behavior and facilitating applications such as drowsiness detection or biometric authentication.",
@@ -117,12 +117,10 @@ const aboutData = [
       },
       {
         title:
-          "4.Implement an intelligent farming framework leveraging data analytics and machine learning algorithms to maximize crop yields and optimize resource utilization.
-",
+          "4.Implement an intelligent farming framework leveraging data analytics and machine learning algorithms to maximize crop yields and optimize resource utilization.",
       },
       {
-        title: "5.Construct an IoT-enabled Smart Waste Management System tailored for urban environments, facilitating efficient waste management practices within smart cities.
-",
+        title: "5.Construct an IoT-enabled Smart Waste Management System tailored for urban environments, facilitating efficient waste management practices within smart cities.",
       },
       {
         title:
@@ -183,10 +181,9 @@ const About = () => {
               return (
                 <div
                   key={itemIndex}
-                  className={`${
-                    index === itemIndex &&
+                  className={`${index === itemIndex &&
                     "text-accent after:w-[100%] after:bg-accent duration-300 hover:text-accent after:transition-all after:duration-300 "
-                  }
+                    }
                 cursor-pointer capitalize xl:text-lg text-white duration-300 relative after:w-8 hover:text-accent after:h-[2px] after:bg-accent after:absolute after:-bottom-1 after:left-0 
                 `}
                   onClick={() => setIndex(itemIndex)}
