@@ -128,9 +128,9 @@ const About = () => {
           // exit="hidden"
           className="flex-1 flex flex-col justify-center"
         >
-          <h2 className="h2">
+          <h2 className="h2 sm:h3">
             Problem{" "}
-            <span className="h2 text-accent font-medium font-lg">
+            <span className="h2 sm:h3 text-accent font-medium font-lg">
               Statements
             </span>
           </h2>
