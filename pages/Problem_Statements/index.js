@@ -67,22 +67,19 @@ const aboutData = [
         "title": "1.Develop a predictive analytics model to forecast stock market trends using machine learning."
       },
       {
-        "title": "2.Engineer an AI-driven system to autonomously categorize and label images or videos based on their visual content, with efficient content organization."
+        "title": "2.Build an intelligent virtual assistant empowered by AI algorithms to assist users with scheduling, task prioritization, and reminders, enhancing productivity."
       },
       {
-        "title": "3.Build an intelligent virtual assistant empowered by AI algorithms to assist users with scheduling, task prioritization, and reminders, enhancing productivity."
+        "title": "3.Design a computer vision solution proficient in accurately detecting objects within images, enabling applications ranging from security to image recognition."
       },
       {
-        "title": "4.Design a computer vision solution proficient in accurately detecting objects within images, enabling applications ranging from security to image recognition."
+        "title": "4.Create a personalized job recommendation system, leveraging machine learning algorithms to suggest relevant job openings based on their skills and experience."
       },
       {
-        "title": "5.Create a personalized job recommendation system, leveraging machine learning algorithms to suggest relevant job openings based on their skills and experience."
+        "title": "5.Develope a computer vision system using OpenCV to recognize hand gestures and perform tasks based on finger combinations, enhancing control in computer interfaces."
       },
       {
-        "title": "6.Develope a computer vision system using OpenCV to recognize hand gestures and perform tasks based on finger combinations, enhancing control in computer interfaces."
-      },
-      {
-        "title": "7.Implement a Python-based Deep Iris Detection system to capture eye blinking actions, provide insights into user behavior for applications like drowsiness detection or biometric authentication."
+        "title": "6.Implement a Python-based Deep Iris Detection system to capture eye blinking actions, provide insights into user behavior for applications like drowsiness detection or biometric authentication."
       }
     ]
   },
@@ -154,7 +151,7 @@ const About = () => {
           exit="hidden"
           className=" flex flex-col w-full xl:max-w-[48%] h-[480px] sm:pt-0"
         >
-          <div className="flex gap-x-4 xl:gap-x-8 mx-auto xl:mx-0 mb-4">
+          <div className="flex gap-x-4 text-xl xl:gap-x-8 mx-auto xl:mx-0 mb-4">
             {aboutData.map((item, itemIndex) => {
               return (
                 <div
