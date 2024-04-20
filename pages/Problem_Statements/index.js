@@ -5,24 +5,24 @@ const aboutData = [
     info: [
       {
         title:
-          "1.Develop a comprehensive web-based financial management application designed to assist individuals in organizing and monitoring their finances, including expense tracking and budget management features.",
+          "1Develop a web-based financial management app for personal finance tracking and budgeting.
       },
       {
         title:
-          "2.Design a Student Result Management System integrated with an SQL database to efficiently store and manage student records, grades, and academic information.",
+          "2.Design a Student Result Management System with SQL integration for storing and managing academic records.",
       },
       {
-        title: "3.Develop a user-friendly social media web application facilitating connections and interactions between users, with features such as profiles, posts, comments, and messaging.",
+        title: "3Develop a social media web app for user connections and interactions with profiles, posts, comments, and messaging.",
       },
       {
-        title: "4.Build a weather forecasting web application using ReactJS to provide real-time weather updates and forecasts, enhancing user experience with interactive features and visualizations.",
+        title: "4.Build a weather forecasting web app using ReactJS for real-time updates and interactive visualizations.",
       },
       {
         title:
-          "5.Craft a resume builder web application using HTML, CSS, and ReactJS, offering users an intuitive interface with multiple resume formats and automatic adjustment of user-provided information to fit selected templates.",
+          "5.Craft a resume builder web application using HTML, CSS, and ReactJS, offering users an intuitive interface.",
       },
       {
-        title: "6.Replicate the functionality of a popular E-commerce website using a language of choice, implementing features such as product listings, shopping carts, user accounts, and secure payment processing.",
+        title: "6Replicate features of a popular E-commerce website with product listings, shopping carts, user accounts, and secure payment processing.",
       },
     ],
   },
@@ -60,27 +60,27 @@ const aboutData = [
     info: [
       {
         title:
-          "1. Develop a predictive analytics model capable of forecasting stock market trends or cryptocurrency values using machine learning techniques.",
+          "1.Design an autonomous delivery robot for efficient navigation in warehouses or campuses, ensuring safe human interaction during package delivery.",
       },
       {
         title:
-          "2. Engineer an AI-driven system capable of autonomously categorizing and labeling images or videos based on their visual content, facilitating efficient content organization and retrieval.",
+          "2.Invent a dynamic basketball robot that accurately identifies the basket and can shoot autonomously or with manual control.",
       },
       {
         title:
-          "3. Build an intelligent virtual assistant empowered by AI algorithms to assist users with scheduling, task prioritization, and reminders, enhancing productivity and time management.",
+          "3.Engineer a versatile farming robot for automating tasks like planting, harvesting, and fertilizing crops, adapting to varying environmental conditions and learning over time.",
       },
       {
         title:
-          "4.Design a computer vision solution proficient in accurately detecting and classifying objects within images, enabling applications ranging from security surveillance to image recognition.",
+          "4.Develop a multifunctional robot for home or office use, capable of tasks such as cleaning, cooking, and organizing, with intuitive human interaction and customizable programming.",
       },
       {
         title:
-          "5.Create a personalized job recommendation system tailored for job seekers, leveraging machine learning algorithms to suggest relevant job openings based on their individual skills, experience, and preferences.",
+          "5.Devise a universal language translation robot that seamlessly converts audio between any languages.",
       },
       {
         title:
-          "6. Select a photo album of 10 photos from which human faces can be detected, identify a person from that photos. Create a ML model that allow a program to organize photos by person. Some software like iPhoto and Google Photos has this capability.",
+          "6.Create an automation bot tailored for monthly patching of Windows servers, with input through CSV files.",
       },
     ],
   },
