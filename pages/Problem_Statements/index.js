@@ -90,10 +90,10 @@ const aboutData = [
         title:
           "6. Select a photo album of 10 photos from which human faces can be detected, identify a person from that photos. Create a ML model that allow a program to organize photos by person. Some software like iPhoto and Google Photos has this capability.",
       },
-      {
-        title:
-          "7.Engineer a Virtual Mouse system using OpenCV that recognizes hand gestures and performs designated tasks based on various finger combinations, enhancing user interaction and control in computer interfaces.",
-      },
+{
+  title:
+    "7.Engineer a Virtual Mouse system using OpenCV that recognizes hand gestures and performs designated tasks based on various finger combinations, enhancing user interaction and control in computer interfaces."
+},
       {
         title:
           "8.Implement a Python-based Deep Iris Detection system capable of capturing and analyzing eye blinking actions, providing insights into user behavior and facilitating applications such as drowsiness detection or biometric authentication.",
