@@ -7,8 +7,7 @@ const Header = () => {
     <header className="absolute z-50 w-full flex items-center px-16 xl:px-0 xl:h-[80px]">
       <div className=" container mx-auto ">
         <div className="flex flex-col lg:flex-row justify-between items-center gap-y-6 py-8">
-          <Link >
-            <a href="https.//eesa24.vercel.app">
+          <Link>
               <Image
                 src={"/logo.png"}
                 width={40}
@@ -16,7 +15,6 @@ const Header = () => {
                 alt=""
                 priority={true}
               />
-            </a>
           </Link>
           <Socials />
         </div>
