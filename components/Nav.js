@@ -14,14 +14,12 @@ import {
 export const navData = [
   { name: "home", path: "/", icon: <HiHome /> },
   { name: "Problem_S.", path: "/Problem_Statements", icon: <HiViewColumns /> },
-
-
-  
   {
     name: "Register",
     path: "/register",
     icon: <HiEnvelope />,
-  }
+  },
+  { name: "Winner", path: "/winners", icon: <HiSparkles /> }
 ];
 
 import Link from "next/link";
