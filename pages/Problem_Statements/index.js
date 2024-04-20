@@ -27,7 +27,7 @@ const aboutData = [
       {
         title:
           "7.Develop a dynamic blog portal allowing users to create and share blogs, with features for liking, sharing, and sorting top-performing blogs based on popularity. Include a text editor with image insertion capabilities for creating engaging blog content.",
-      },
+      }
     ],
   },
   {
