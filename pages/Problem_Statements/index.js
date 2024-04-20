@@ -26,7 +26,7 @@ const aboutData = [
       },
       {
         title:
-          "7.Build a dynamic blog platform for users to create and share blogs, with liking, sharing, and top blog sorting features. Include a text editor with image insertion for engaging content.",
+          "7.Build a dynamic blog platform for users to create and share blogs, with liking, sharing. Include a text editor with image insertion for engaging content.",
       },
     ],
   },
@@ -55,42 +55,36 @@ const aboutData = [
       },
       {
         title:
-          "6.Design an automation bot for cyclic monthly patching of Windows servers, with input functionality facilitated through CSV files",
+          "6.Design an automation bot for cyclic monthly patching of Windows servers, with input functionality via CSV files",
       },
-      {
-        title:
-          "7.Engineer an Optimum Path Finder robot capable of analyzing multiple available routes and determining the shortest path to a given destination efficiently.",
-      },
+     
     ],
   },
   {
-    title: "AI and ML",
-    info: [
+    "title": "AI and ML",
+    "info": [
       {
-        title:
-          "1.Design an autonomous delivery robot for efficient navigation in warehouses or campuses, ensuring safe human interaction during package delivery.",
+        "title": "1.Develop a predictive analytics model to forecast stock market trends or cryptocurrency values using machine learning."
       },
       {
-        title:
-          "2.Invent a dynamic basketball robot that accurately identifies the basket and can shoot autonomously or with manual control.",
+        "title": "2.Engineer an AI-driven system to autonomously categorize and label images or videos based on their visual content, facilitating efficient content organization and retrieval."
       },
       {
-        title:
-          "3.Engineer a versatile farming robot for automating tasks like planting, harvesting, and fertilizing crops, adapting to varying environmental conditions and learning over time.",
+        "title": "3.Build an intelligent virtual assistant empowered by AI algorithms to assist users with scheduling, task prioritization, and reminders, enhancing productivity and time management."
       },
       {
-        title:
-          "4.Develop a multifunctional robot for home or office use, capable of tasks such as cleaning, cooking, and organizing, with intuitive human interaction and customizable programming.",
+        "title": "4.Design a computer vision solution proficient in accurately detecting and classifying objects within images, enabling applications ranging from security surveillance to image recognition."
       },
       {
-        title:
-          "5.Create an automation bot tailored for monthly patching of Windows servers, with input through CSV files.",
+        "title": "5.Create a personalized job recommendation system for job seekers, leveraging machine learning algorithms to suggest relevant job openings based on their skills, experience, and preferences."
       },
       {
-        title:
-          "6.Engineer a Virtual Mouse system using OpenCV that recognizes hand gestures and performs designated tasks based on various finger combinations, enhancing user interaction and control in computer interfaces."
+        "title": "6.Engineer a Virtual Mouse system using OpenCV to recognize hand gestures and perform tasks based on finger combinations, enhancing user interaction and control in computer interfaces."
       },
-    ],
+      {
+        "title": "7.Implement a Python-based Deep Iris Detection system to capture and analyze eye blinking actions, providing insights into user behavior for applications like drowsiness detection or biometric authentication."
+      }
+    ]
   },
   {
     title: "Internet of things",
@@ -113,15 +107,7 @@ const aboutData = [
       },
       {
         title: "5.Construct an IoT-enabled Smart Waste Management System tailored for urban environments, facilitating efficient waste management practices within smart cities.",
-      },
-      {
-        title:
-          "6. Develop IoT solutions aimed at enhancing energy efficiency across residential, commercial, and industrial sectors, integrating features such as intelligent lighting, HVAC management, and energy consumption monitoring.",
-      },
-      {
-        title:
-          "7. Create robust security protocols for safeguarding IoT devices and networks against unauthorized access, data breaches, and privacy infringements, taking into account the diverse array of connected devices and potential vulnerabilities.",
-      },
+      }
     ],
   },
 ];
