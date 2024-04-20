@@ -22,7 +22,7 @@ const aboutData = [
           "5.Craft a resume builder web application using HTML, CSS, and ReactJS, offering users an intuitive interface.",
       },
       {
-        title: "6.Replicate features of a popular E-commerce website with product listings, shopping carts, user accounts, and secure payment processing.",
+        title: "6.Replicate features of a popular E-commerce website.",
       },
       {
         title:
@@ -64,25 +64,25 @@ const aboutData = [
     "title": "AI and ML",
     "info": [
       {
-        "title": "1.Develop a predictive analytics model to forecast stock market trends or cryptocurrency values using machine learning."
+        "title": "1.Develop a predictive analytics model to forecast stock market trends using machine learning."
       },
       {
-        "title": "2.Engineer an AI-driven system to autonomously categorize and label images or videos based on their visual content, facilitating efficient content organization and retrieval."
+        "title": "2.Engineer an AI-driven system to autonomously categorize and label images or videos based on their visual content, with efficient content organization."
       },
       {
-        "title": "3.Build an intelligent virtual assistant empowered by AI algorithms to assist users with scheduling, task prioritization, and reminders, enhancing productivity and time management."
+        "title": "3.Build an intelligent virtual assistant empowered by AI algorithms to assist users with scheduling, task prioritization, and reminders, enhancing productivity."
       },
       {
-        "title": "4.Design a computer vision solution proficient in accurately detecting and classifying objects within images, enabling applications ranging from security surveillance to image recognition."
+        "title": "4.Design a computer vision solution proficient in accurately detecting objects within images, enabling applications ranging from security to image recognition."
       },
       {
-        "title": "5.Create a personalized job recommendation system for job seekers, leveraging machine learning algorithms to suggest relevant job openings based on their skills, experience, and preferences."
+        "title": "5.Create a personalized job recommendation system, leveraging machine learning algorithms to suggest relevant job openings based on their skills and experience."
       },
       {
-        "title": "6.Engineer a Virtual Mouse system using OpenCV to recognize hand gestures and perform tasks based on finger combinations, enhancing user interaction and control in computer interfaces."
+        "title": "6.Develope a computer vision system using OpenCV to recognize hand gestures and perform tasks based on finger combinations, enhancing control in computer interfaces."
       },
       {
-        "title": "7.Implement a Python-based Deep Iris Detection system to capture and analyze eye blinking actions, providing insights into user behavior for applications like drowsiness detection or biometric authentication."
+        "title": "7.Implement a Python-based Deep Iris Detection system to capture eye blinking actions, provide insights into user behavior for applications like drowsiness detection or biometric authentication."
       }
     ]
   },
