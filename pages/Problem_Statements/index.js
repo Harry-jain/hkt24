@@ -133,7 +133,7 @@ const About = () => {
           // exit="hidden"
           className="flex-1 flex flex-col justify-center"
         >
-          <h2 className="h3">
+          <h2 className="h2">
             Problem{" "}
             <span className="h2 text-accent font-medium font-lg">
               Statements
