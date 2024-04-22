@@ -9,6 +9,7 @@ import {
   HiSparkles,
   HiChatBubbleBottomCenter  
 } from "react-icons/hi2";
+import { FaWpforms } from "react-icons/fa";
 
 // nav data
 export const navData = [
@@ -17,7 +18,7 @@ export const navData = [
   {
     name: "Register",
     path: "/register",
-    icon: <HiEnvelope />,
+    icon: <FaWpforms />,
   },
   { name: "Winner", path: "/winners", icon: <HiSparkles /> }
 ];
@@ -31,7 +32,7 @@ const Nav = () => {
 
   return (
     <nav className="flex flex-col items-center xl:justify-center gap-y-4 fixed h-min bottom-0 mt-auto xl:right-[2%] z-50 top-0 w-full xl:w-16 xl:max-w-md xl:h-screen  xl:p-2 rounded-xl">
-      <div className="flex w-full xl:flex-col items-center justify-between xl:justify-center gap-y-10 px-3 md:px-40 xl:px-0 h-[40px] xl:h-max py-8 bg-white/10 backdrop-blur-sm text-3xl xl:text-xl xl:rounded-[13px]   ">
+      <div className="flex w-full xl:flex-col items-center justify-between xl:justify-center gap-y-10 px-3 md:px-40 xl:px-0 h-[50px] xl:h-max py-8 bg-white/10 backdrop-blur-sm text-3xl xl:text-xl xl:rounded-[13px]   ">
         {navData.map((link, index) => {
           return (
             <Link
